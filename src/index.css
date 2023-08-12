@@ -44,3 +44,8 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+
+.home {
+  background-color: rgb(58, 0, 79);
+  color: rgb(110, 110, 110);
+}
